@@ -515,7 +515,8 @@ html .cog-page__navigation .cog-button:hover, :root:root:root:root:root .cog-pag
     width: 100%;
     max-width: 600px;
     position: relative;
-    display: flex; justify-content: center;
+    display: flex;
+    justify-content: center;
     flex-direction: column;
     align-items: center;
 }
