@@ -77,7 +77,7 @@ header {
     color: #000;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 500px) {
     .header__inner {
         background-image: none;
         background-color: transparent;
@@ -135,6 +135,10 @@ header {
     position: relative;
 }
 
+.max-width-india {
+    max-width: 578px
+}
+
 .ui-patch {
     position: absolute;
     right: -190px;
@@ -173,7 +177,7 @@ header {
     fill: #000;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 500px) {
     .banner__image {
         width: 240px;
     }
@@ -234,7 +238,7 @@ header {
     height: fit-content;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 500px) {
     .block-content__note {
         font-size: 12px;
         margin-bottom: 0;
@@ -293,7 +297,7 @@ header {
     width: 150px;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 500px) {
     .block-content__wrapper {
         padding-top: 28px;
         padding-bottom: 23px;
@@ -536,7 +540,7 @@ html .cog-page__navigation .cog-button:hover, :root:root:root:root:root .cog-pag
     }
 }
 
-@media screen and (max-width: 420px){
+@media screen and (max-width: 500px){
     .form__sub-text {
         font-size: 9px;
         line-height: 115%;
@@ -642,7 +646,7 @@ footer {
     line-height: 16px;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 500px) {
     footer {
         padding: 0 25px;
     }
