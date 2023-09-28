@@ -191,7 +191,7 @@ header {
 
     .ui-patch {
         top: 150%;
-        right: -20px;
+        right: 20px;
         width: 95px;
         height: 80px;
     }
@@ -235,7 +235,7 @@ header {
 }
 
 @media screen and (max-width: 420px) {
-    .block-content__text {
+    .block-content__note {
         font-size: 12px;
         margin-bottom: 0;
     }
