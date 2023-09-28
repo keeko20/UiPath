@@ -195,6 +195,13 @@ header {
 
     .ui-patch {
         top: 150%;
+        right: -20px;
+        width: 95px;
+        height: 80px;
+    }
+
+    .max-width-india .ui-patch {
+        top: 150%;
         right: 20px;
         width: 95px;
         height: 80px;
